@@ -17,7 +17,7 @@ The LEDs indicate:
 I created this software primarily to learn a little more about the Rust language, but also to create a tool that could help me visually in remotely monitoring room conditions for my 3d printer. 
 The temperature ranges and humidity threshold are recommended thresholds for PLA filament. If the filament is outside these thresholds, it can become damaged.
 
-[Software Demo Video](https://youtu.be/rRvHbvW8H1M)
+[Software Demo Video](https://youtu.be/fInz8PTKZAY)
 
 # Development Environment
 
